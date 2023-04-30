@@ -1,5 +1,6 @@
 <div id="stats" align="center">
-  ![](gif.gif)
+  <img src="gif.gif">
+  
 </div>
 
 <!--
