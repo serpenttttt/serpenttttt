@@ -1,4 +1,4 @@
-![](image.jpg)
+![](gif.gif)
 
 <!--
 **serpenttttt/serpenttttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
